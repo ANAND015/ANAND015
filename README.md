@@ -36,12 +36,6 @@
 
 ---
 
-### 📈 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand123&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand123&layout=compact&theme=radical)  
-
----
-
 ### 🌟 Projects  
 - **[Project One](#)**: Overview and features  
 - **[Project Two](#)**: Description and highlights  
